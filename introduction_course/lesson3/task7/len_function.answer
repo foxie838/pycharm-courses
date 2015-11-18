@@ -5,3 +5,4 @@ to define multi-line strings
 """
 first_half = phrase[:len(phrase)/2]
 print(first_half)
+i tried ur anwser but its not working same for all of my anwsers any ideas?
